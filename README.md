@@ -24,17 +24,15 @@ See [`docs/sample_queries.md`](docs/sample_queries.md) for sample SQL queries ov
 
 ## 🖼️ Architecture Diagram
 
-![Pipeline Architecture](docs/architecture.png)
+<img width="279" height="395" alt="Image" src="https://github.com/user-attachments/assets/a88c61fa-681f-4ee5-93d1-e8b7ceac42e3" />
 
 ## 🧪 Screenshots
 
-<p float="left">
-  <img src="screenshots/bronze_display.jpg" width="300" />
-  <img src="screenshots/silver_display.jpg" width="300" />
-  <img src="screenshots/gold_display_1.jpg" width="300" />
-  <img src="screenshots/gold_display_2.jpg" width="300" />
-  <img src="screenshots/gold_display_3.jpg" width="300" />
-</p>
+  **Gold Diplays:**
+  
+![Image](https://github.com/user-attachments/assets/9c581795-4b03-48a4-b54f-9ffb76799793)
+![Image](https://github.com/user-attachments/assets/161adfaf-d41e-41b3-a585-ef494eb58ff8)
+![Image](https://github.com/user-attachments/assets/d0ca23e9-29a1-4774-a337-71dbc7211976)
 
 ## 🚀 How to Run
 
@@ -51,7 +49,7 @@ Below is a sample visualization built using the Databricks built-in dashboard to
 
 This chart shows the **average movie rating per year**, using cleaned and transformed data from the Silver table.
 
-![Dashboard - Gold Layer Example](screenshots/dashboard_gold_example.jpg)
+![Gold Layer Dashboard Example](https://github.com/user-attachments/assets/22016b36-34f3-403a-9d1a-2e8847bc740c)
 
 
 ## 📂 Folder Structure
