@@ -29,11 +29,11 @@ See [`docs/sample_queries.md`](docs/sample_queries.md) for sample SQL queries ov
 ## 🧪 Screenshots
 
 <p float="left">
-  <img src="screenshots/bronze_display.png" width="300" />
-  <img src="screenshots/silver_display.png" width="300" />
-  <img src="screenshots/gold_display_1.png" width="300" />
-  <img src="screenshots/gold_display_2.png" width="300" />
-  <img src="screenshots/gold_display_3.png" width="300" />
+  <img src="screenshots/bronze_display.jpg" width="300" />
+  <img src="screenshots/silver_display.jpg" width="300" />
+  <img src="screenshots/gold_display_1.jpg" width="300" />
+  <img src="screenshots/gold_display_2.jpg" width="300" />
+  <img src="screenshots/gold_display_3.jpg" width="300" />
 </p>
 
 ## 🚀 How to Run
